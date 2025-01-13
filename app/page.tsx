@@ -4,7 +4,7 @@ import Hero from './components/Hero'; // Ensure the component file name matches 
 import About from './components/About'; // Ensure the component file name matches the import
 import Portfolio from './components/Portfolio'; // Ensure the component file name matches the import
 import Skills from './components/Skills'; // Ensure the component file name matches the import
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 const Page = () => {  // The component name must start with an uppercase letter (Page instead of page)
   return (
