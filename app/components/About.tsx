@@ -12,8 +12,8 @@ const About = () => {
                     bg-gradient-to-r from-indigo-600 via-fuchsia-500 to-pink-500
                     shadow-lg">About me</h2>
         <p className="text-lg text-black">
-          Hi, I'm <h1 className='text-fuchsia-500'>RIDA ZIA</h1>, a passionate web developer with a love for building interactive and beautiful web applications.
-          I specialize in front-end technologies like Nextjs , and I’m always eager to learn new skills to enhance my abilities.
+          Hi, Im <h1 className='text-fuchsia-500'>RIDA ZIA</h1>, a passionate web developer with a love for building interactive and beautiful web applications.
+          I specialize in front-end technologies like Nextjs  and Im always eager to learn new skills to enhance my abilities.
         </p>
       </div>
     </section>
